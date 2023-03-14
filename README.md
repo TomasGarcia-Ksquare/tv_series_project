@@ -2,10 +2,6 @@
 
 Application for Listing TV Series
 
-# Instalation
+Design: https://www.figma.com/file/0U8xVwLrrdqBNeyXeKmOCJ/Mobile-APP?node-id=0%3A1
 
-## packages:
-
-```bash
-flutter pub get
-```
+Documentation: https://luck-jeep-daa.notion.site/Listing-TV-Series-App-Documentation-9177b39dd30b4ff4a1f10a39c6e4fd72
